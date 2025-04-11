@@ -10,5 +10,6 @@
  - Summer '25: Tahoe Quantum Launch
  - Fall '25: Inaugural Summit in Incline Village, Nevada (September)
 
-# Tahoe Quantum Wildfires Challenege
-To get started with this challenge, please read [TahoeQuantumChallenge.ipynb](TahoeQuantumChallenge.ipynb). For help setting up an environment in which to do the challenege, please see [qbraid_instructions.ipynb](qbraid_instructions.ipynb).
+# Hackathon Challenge for YQuantum 2025 - Wildfire Response 
+To get started with this challenge, please read [TahoeQuantumChallenge.ipynb](TahoeQuantumChallenge.ipynb). 
+For help setting up an environment please see [qbraid_instructions.ipynb](qbraid_instructions.ipynb).
